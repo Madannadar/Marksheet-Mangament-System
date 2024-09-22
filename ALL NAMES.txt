@@ -1,0 +1,171 @@
+elif table1_name == "aiml_sem1_2023_cln":
+                        subjects_table1 = ['(EM-1)TOTAL', '(EP-1)TOTAL', '(EC-1)TOTAL', '(EM)TOTAL', '(BEE)TOTAL']
+elif table1_name == "aiml_sem2_2023_cln":
+                        subjects_table1 = ['(EM-2)TOTAL', '(EP-2)TOTAL', '(EC-2)TOTAL', '(EG)TOTAL', '(CP)TOTAL']
+elif table1_name == "aiml_sem3_2023_cln":
+                        subjects_table1 = ['(EM-3)TOTAL', '(DSGT)TOTAL', '(DS)TOTAL', '(DLCOA)TOTAL', '(CG)TOTAL']
+elif table1_name == "aiml_sem4_2023_cln":
+                        subjects_table1 = ['(EM-4)TOTAL', '(AOA)TOTAL', '(DBMS)TOTAL', '(OS)TOTAL', '(MP)TOTAL']
+elif table1_name == "aiml_sem5_2023_cln":
+                        subjects_table1 = ['(CN)TOTAL', '(WC)TOTAL', '(AI)TOTAL', '(DWM)TOTAL', '(DLO-1)
+TOTAL']
+elif table1_name == "aiml_sem6_2023_cln":
+                        subjects_table1 = ['(DAV)TOTAL', '(CSS)TOTAL', '(SEPM)TOTAL', '(ML)TOTAL', '(DLO-2)TOTAL']
+elif table1_name == "aiml_sem7_2023_cln":
+                        subjects_table1 = ['(DL)TOTAL', '(BDA)TOTAL', '(DLO-3)TOTAL', '(DLO-4)TOTAL', '(ILO-1)TOTAL']
+elif table1_name == "aiml_sem8_2023_cln":
+                        subjects_table1 = ['(AAI)TOTAL', '(DLO-5)TOTAL', '(DLO-6)TOTAL', '(ILO-2)
+TOTAL']
+
+
+elif table1_name == "aids_sem1_2023_cln":
+                        subjects_table1 = ['(EM-1)TOTAL', '(EP-1)TOTAL', '(EC-1)TOTAL', '(EM)TOTAL', '(BEE)TOTAL']
+elif table1_name == "aids_sem2_2023_cln":
+                        subjects_table1 = ['(EM-2)TOTAL', '(EP-2)TOTAL', '(EC-2)TOTAL', '(EG)TOTAL', '(CP)TOTAL']
+elif table1_name == "aids_sem3_2023_cln":
+                        subjects_table1 = ['(EM-3)TOTAL', '(DSGT)TOTAL', '(DS)TOTAL', '(DLCOA)TOTAL', '(CG)TOTAL']
+elif table1_name == "aids_sem4_2023_cln":
+                        subjects_table1 = ['(EM-4)TOTAL', '(AOA)TOTAL', '(DBMS)TOTAL', '(OS)TOTAL', '(MP)TOTAL']
+elif table1_name == "aids_sem5_2023_cln":
+                        subjects_table1 = ['(CN)TOTAL', '(WC)TOTAL', '(AI)TOTAL', '(DWM)TOTAL', '(DLO-1)
+TOTAL']
+elif table1_name == "aids_sem6_2023_cln":
+                        subjects_table1 = ['(DEV)TOTAL', '(CSS)TOTAL', '(SEPM)TOTAL', '(ML)TOTAL', '(DLO-2)TOTAL']
+elif table1_name == "aids_sem7_2023_cln":
+                        subjects_table1 = ['(DL)TOTAL', '(BDA)TOTAL', '(DLO-3)TOTAL', '(DLO-4)TOTAL', '(ILO-1)TOTAL']
+elif table1_name == "aids_sem8_2023_cln":
+                        subjects_table1 = ['(AAI)TOTAL', '(DLO-5)TOTAL', '(DLO-6)TOTAL', '(ILO-2)
+TOTAL']
+
+
+elif table1_name == "it_sem1_2023_cln":
+                        subjects_table1 = ['(EM-1)TOTAL', '(EP-1)TOTAL', '(EC-1)TOTAL', '(EM)TOTAL', '(BEE)TOTAL']
+elif table1_name == "it_sem2_2023_cln":
+                        subjects_table1 = ['(EM-2)TOTAL', '(EP-2)TOTAL', '(EC-2)TOTAL', '(EG)TOTAL', '(CP)TOTAL']
+elif table1_name == "it_sem3_2023_cln":
+                        subjects_table1 = ['(EM-3)TOTAL', '(DSA)TOTAL', '(DBMS)TOTAL', '(POC)TOTAL', '(PCPF)TOTAL']
+elif table1_name == "it_sem4_2023_cln":
+                        subjects_table1 = ['(EM-4)TOTAL', '(CN AND ND)TOTAL', '(OS)TOTAL', '(AT)TOTAL', '(COA)TOTAL']
+elif table1_name == "it_sem5_2023_cln":
+                        subjects_table1 = ['(IP)TOTAL', '(CNS)TOTAL', '(EEB)TOTAL', '(SE)TOTAL', '(DLO-1)
+TOTAL']
+elif table1_name == "it_sem6_2023_cln":
+                        subjects_table1 = ['(DMBI)TOTAL', '(Web X.0)TOTAL', '(WT)TOTAL', '(AIDS-1)TOTAL', '(DLO-2)TOTAL']
+elif table1_name == "it_sem7_2023_cln":
+                        subjects_table1 = ['(AIDS-2)TOTAL', '(IOE)TOTAL', '(DLO-3)TOTAL', '(DLO-4)TOTAL', '(ILO-1)TOTAL']
+elif table1_name == "it_sem8_2023_cln":
+                        subjects_table1 = ['(Blockchain and DLT)TOTAL', '(DLO-5)TOTAL', '(DLO-6)TOTAL', '(ILO-2)
+TOTAL']
+
+
+elif table1_name == "ce_sem1_2023_cln":
+                        subjects_table1 = ['(EM-1)TOTAL', '(EP-1)TOTAL', '(EC-1)TOTAL', '(EM)TOTAL', '(BEE)TOTAL']
+elif table1_name == "ce_sem2_2023_cln":
+                        subjects_table1 = ['(EM-2)TOTAL', '(EP-2)TOTAL', '(EC-2)TOTAL', '(EG)TOTAL', '(CP)TOTAL']
+elif table1_name == "ce_sem3_2023_cln":
+                        subjects_table1 = ['(EM-3)TOTAL', '(DSA)TOTAL', '(DBMS)TOTAL', '(POC)TOTAL', '(PCPF)TOTAL']
+elif table1_name == "ce_sem4_2023_cln":
+                        subjects_table1 = ['(EM-4)TOTAL', '(CN AND ND)TOTAL', '(OS)TOTAL', '(AT)TOTAL', '(COA)TOTAL']
+elif table1_name == "ce_sem5_2023_cln":
+                        subjects_table1 = ['(TCS)TOTAL', '(SE)TOTAL', '(CN)TOTAL', '(DWM)TOTAL', '(DLO-1)
+TOTAL']
+elif table1_name == "ce_sem6_2023_cln":
+                        subjects_table1 = ['(SPCC)TOTAL', '(CSS)TOTAL', '(MC)TOTAL', '(AI)TOTAL', '(DLO-2)TOTAL']
+elif table1_name == "ce_sem7_2023_cln":
+                        subjects_table1 = ['(ML)TOTAL', '(BDA)TOTAL', '(DLO-3)TOTAL', '(DLO-4)TOTAL', '(ILO-1)TOTAL']
+elif table1_name == "ce_sem8_2023_cln":
+                        subjects_table1 = ['(DS)TOTAL', '(DLO-5)TOTAL', '(DLO-6)TOTAL', '(ILO-2)
+TOTAL']
+
+
+elif table1_name == "extc_sem1_2023_cln":
+                        subjects_table1 = ['(EM-1)TOTAL', '(EP-1)TOTAL', '(EC-1)TOTAL', '(EM)TOTAL', '(BEE)TOTAL']
+elif table1_name == "extc_sem2_2023_cln":
+                        subjects_table1 = ['(EM-2)TOTAL', '(EP-2)TOTAL', '(EC-2)TOTAL', '(EG)TOTAL', '(CP)TOTAL']
+elif table1_name == "extc_sem3_2023_cln":
+                        subjects_table1 = ['(EM-3)TOTAL', '(EDC)TOTAL', '(DSD)TOTAL', '(NT)TOTAL', '(EICS)TOTAL']
+elif table1_name == "extc_sem4_2023_cln":
+                        subjects_table1 = ['(EM-4)TOTAL', '(MC)TOTAL', '(LIC)TOTAL', '(SS)TOTAL', '(PCE)
+TOTAL']
+elif table1_name == "extc_sem5_2023_cln":
+                        subjects_table1 = ['(DC)TOTAL', '(DTSP)TOTAL', '(DVLSI)TOTAL', '(RSA)TOTAL', '(DLO-1)
+TOTAL']
+elif table1_name == "extc_sem6_2023_cln":
+                        subjects_table1 = ['(EMA)TOTAL', '(CCN)TOTAL', '(IPMV)TOTAL', '(ANN AND FL)TOTAL', '(DLO-2)TOTAL']
+elif table1_name == "extc_sem7_2023_cln":
+                        subjects_table1 = ['(MWV)TOTAL', '(MCS)TOTAL', '(DLO-3)TOTAL', '(DLO-4)TOTAL', '(ILO-1)TOTAL']
+elif table1_name == "extc_sem8_2023_cln":
+                        subjects_table1 = ['(OCN)TOTAL', '(DLO-5)TOTAL', '(DLO-6)TOTAL', '(ILO-2)
+TOTAL']
+
+
+elif table1_name == "ecs_sem1_2023_cln":
+                        subjects_table1 = ['(EM-1)TOTAL', '(EP-1)TOTAL', '(EC-1)TOTAL', '(EM)TOTAL', '(BEE)TOTAL']
+elif table1_name == "ecs_sem2_2023_cln":
+                        subjects_table1 = ['(EM-2)TOTAL', '(EP-2)TOTAL', '(EC-2)TOTAL', '(EG)TOTAL', '(CP)TOTAL']
+elif table1_name == "ecs_sem3_2023_cln":
+                        subjects_table1 = ['(EM-3)TOTAL', '(ED)TOTAL', '(DE)TOTAL', '(DSA)TOTAL', '(DBMS)TOTAL']
+elif table1_name == "ecs_sem4_2023_cln":
+                        subjects_table1 = ['(EM-4)TOTAL', '(EC)TOTAL', '(CI)TOTAL', '(MP and MC)TOTAL', '(DS and AT)TOTAL']
+elif table1_name == "ecs_sem5_2023_cln":
+                        subjects_table1 = ['(CE)TOTAL', '(COA)TOTAL', '(SE)TOTAL', '(WT)TOTAL', '(DLO-1)
+TOTAL']
+elif table1_name == "ecs_sem6_2023_cln":
+                        subjects_table1 = ['(ES and RTOS)TOTAL', '(AI)TOTAL', '(CN)TOTAL', '(DWM)TOTAL', '(DLO-2)TOTAL']
+elif table1_name == "ecs_sem7_2023_cln":
+                        subjects_table1 = ['(VLSI Design)TOTAL', '(IOT)TOTAL', '(DLO-3)TOTAL', '(DLO-4)TOTAL', '(ILO-1)TOTAL']
+elif table1_name == "ecs_sem8_2023_cln":
+                        subjects_table1 = ['(Robotics)TOTAL', '(DLO-5)TOTAL', '(DLO-6)TOTAL', '(ILO-2)
+TOTAL']
+
+
+elif table1_name == "mech_sem1_2023_cln":
+                        subjects_table1 = ['(EM-1)TOTAL', '(EP-1)TOTAL', '(EC-1)TOTAL', '(EM)TOTAL', '(BEE)TOTAL']
+elif table1_name == "mech_sem2_2023_cln":
+                        subjects_table1 = ['(EM-2)TOTAL', '(EP-2)TOTAL', '(EC-2)TOTAL', '(EG)TOTAL', '(CP)TOTAL']
+elif table1_name == "mech_sem3_2023_cln":
+                        subjects_table1 = ['(EM-3)TOTAL', '(SOM)TOTAL', '(PP)TOTAL', '(MM)TOTAL', '(TD)
+TOTAL']
+elif table1_name == "mech_sem4_2023_cln":
+                        subjects_table1 = ['(EM-4)TOTAL', '(FM)TOTAL', '(KM)TOTAL', '(CAD/CAM)TOTAL', '(IE)TOTAL']
+elif table1_name == "mech_sem5_2023_cln":
+                        subjects_table1 = ['(MMC)TOTAL', '(TE)TOTAL', '(DOM)TOTAL', '(FEA)TOTAL', '(DLO-1)
+TOTAL']
+elif table1_name == "mech_sem6_2023_cln":
+                        subjects_table1 = ['(MD)TOTAL', '(TM)TOTAL', '(HVACR)TOTAL', '(AAI)TOTAL', '(DLO-2)TOTAL']
+elif table1_name == "mech_sem7_2023_cln":
+                        subjects_table1 = ['(DOMS)TOTAL', '(LSCM)TOTAL', '(DLO-3)TOTAL', '(DLO-4)TOTAL', '(ILO-1)TOTAL']
+elif table1_name == "mech_sem8_2023_cln":
+                        subjects_table1 = ['(OPC)TOTAL', '(DLO-5)TOTAL', '(DLO-6)TOTAL', '(ILO-2)
+TOTAL']
+
+
+elif table1_name == "iot_sem1_2023_cln":
+                        subjects_table1 = ['(EM-1)TOTAL', '(EP-1)TOTAL', '(EC-1)TOTAL', '(EM)TOTAL', '(BEE)TOTAL']
+elif table1_name == "iot_sem2_2023_cln":
+                        subjects_table1 = ['(EM-2)TOTAL', '(EP-2)TOTAL', '(EC-2)TOTAL', '(EG)TOTAL', '(CP)TOTAL']
+elif table1_name == "iot_sem3_2023_cln":
+                        subjects_table1 = ['(EM-3)TOTAL', '(DSGT)TOTAL', '(DS)TOTAL', '(DLCOA)TOTAL', '(CG)
+TOTAL']
+elif table1_name == "iot_sem4_2023_cln":
+                        subjects_table1 = ['(EM-4)TOTAL', '(AOA)TOTAL', '(DBMS)TOTAL', '(OS)TOTAL', '(MP)TOTAL']
+elif table1_name == "iot_sem5_2023_cln":
+                        subjects_table1 = ['(TCS)TOTAL', '(SE)TOTAL', '(CN)TOTAL', '(DWM)TOTAL', '(DLO-1)
+TOTAL']
+elif table1_name == "iot_sem6_2023_cln":
+                        subjects_table1 = ['(CNS)TOTAL', '(IoTAP)TOTAL', '(BT)TOTAL', '(Web X.0)TOTAL', '(DLO-2)TOTAL']
+elif table1_name == "iot_sem7_2023_cln":
+                        subjects_table1 = ['(ML)TOTAL', '(BDA)TOTAL', '(DLO-3)TOTAL', '(DLO-4)TOTAL', '(ILO-1)TOTAL']
+elif table1_name == "iot_sem8_2023_cln":
+                        subjects_table1 = ['(DS)TOTAL', '(DLO-5)TOTAL', '(DLO-6)TOTAL', '(ILO-2)
+TOTAL']
+
+
+
+
+
+
+
+
+
+
